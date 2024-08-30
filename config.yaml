@@ -94,13 +94,14 @@ params:
 
   # color preference
   # When using hex codes for colors, quotations must be used along with the # sign
+  
   color:
     textColor: "#17202a"
     secondaryTextColor: "#17202a"
-    textLinkColor: "#17202a"
+    textLinkColor: "#17202a" #Black
     backgroundColor: "#8a9a5b"
     secondaryBackgroundColor: "#64ffda1a"
-    primaryColor: "#17202a"
+    primaryColor: "#f0dfc8" #Tan
     secondaryColor: "#f8f9fa"
 
     # darkmode:
@@ -139,13 +140,15 @@ params:
     # title: "Isabella."
     subtitle: "DESCUBRE TU BELLEZA NATURAL"
     # content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.png
+    image: "/images/hero.jpg"
+    logo: "/images/hero.png"
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+    roundImage: false # Make hero image circular | default false
+    roundLogo: true # Make logo image circular | default false
     button:
       enable: true
-      name: "Cita"
+      name: "SOLICITE UNA CITA"
       url: "/#contact"
       download: false
       newPage: false
