@@ -8,6 +8,10 @@
     fill: none;
 }
 
+.light #footer-socialNetworks-email-svg-path{
+    fill: #000000;
+}
+
 /* dark mode */
 .dark {
     --background-color: var(--background-color-dark) !important;
@@ -22,6 +26,10 @@
 .dark #footer-socialNetworks-github-svg-path{
     fill: #FFFFFF;
 }
+
+/* .dark #footer-socialNetworks-email-svg-path{
+    fill: #FFFFFF;
+} */
 
 .text-secondary {
     color: var(--text-secondary-color) !important;
@@ -53,4 +61,8 @@ body:not(.dark) #sun {
 body *::selection {
     color: var(--text-color) !important;
     background-color: var(--primary-color) !important;
+}
+
+#copyright .text-secondary{
+    font-size: xx-small;
 }
