@@ -163,7 +163,7 @@ params:
         - icon: fab fa-whatsapp fa-bounce
           url: https://wa.me/50685178431
         - icon: fa-regular fa-envelope fa-bounce
-          url: mailto:hola@cleopatraestetica.com
+          url: mailto:info@cleopatraestetica.com
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -335,7 +335,7 @@ params:
       # twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
-      email: mailto:hola@cleopatraestetica.com
+      email: mailto:info@cleopatraestetica.com
 
   # List pages like blogs and posts
   listPages:
