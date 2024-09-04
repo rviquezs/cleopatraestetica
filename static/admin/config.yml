@@ -5,9 +5,9 @@ media_folder: static/images
 public_folder: /images
 collections:
   - label: "Servicios"
-    name: "projects"
+    name: "servicios"
     files:
-      - label: "Proyectos"
+      - label: "Servicios"
         name: "projects"
         file: "config.yaml"
         fields:
@@ -16,7 +16,7 @@ collections:
             widget: "list"
             fields:
               - { label: 'Título', name: 'title', widget: 'string' }
-              - { label: 'Contenido', name: 'content', widget: 'text' }
+              - { label: 'Contenido', name: 'content', widget: 'text', default: -| }
               - { label: 'Imagen', name: 'image', widget: 'image' }
               - label: 'Destacado'
                 name: 'featured'
