@@ -147,7 +147,7 @@ params:
     subtitle: "DESCUBRE TU BELLEZA NATURAL"
     # content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: "https://images.unsplash.com/photo-1603274737277-f43f54446c7b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" # "/images/hero.jpg"
-    logo: /images/logo.png
+    logo: "images/logo.png"
     bottomImage:
       enable: true
     roundImage: false # Make hero image circular | default false
@@ -277,7 +277,7 @@ params:
     items:
       - title: Trilaser
         content: El mejor equipo de depilación con láser.
-        image: /images/servicios/trilaser.jpeg
+        image: "/images/servicios/trilaser.jpeg"
         featured:
           name: Información
           # price: "10.000"
@@ -294,7 +294,7 @@ params:
 
       - title: Paquete Facial Nefertiti
         content: "5 tratamientos faciales con Diatermia.\n Ideal para pieles maduras."
-        image: /images/servicios/paquete_nefertiti.jpeg
+        image: "images/servicios/paquete_nefertiti.jpeg"
         featured:
           name: Información
           link: https://example.com
@@ -302,7 +302,7 @@ params:
 
       - title: Paquete Facial Cleopatra"
         content: "5 tratamientos faciales con Diatermia y Carboxiterapia.\n Ideal para pieles maduras."
-        image: /images/servicios/paquete_cleopatra.jpeg
+        image: "images/servicios/paquete_cleopatra.jpeg"
         featured:
           name: Información
           link: https://example.com
