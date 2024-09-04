@@ -169,6 +169,7 @@ params:
       #     url: "https://example.com"
 
   # About
+  
   about:
     enable: false
     title: "About Me"
@@ -276,7 +277,7 @@ params:
     items:
       - title: Trilaser
         content: El mejor equipo de depilación con láser.
-        image: /images/servicios/trilaser.jpeg
+        image: "/images/servicios/trilaser.jpeg"
         featured:
           name: Información
           # price: "10.000"
@@ -293,24 +294,15 @@ params:
 
       - title: Paquete Facial Nefertiti
         content: "5 tratamientos faciales con Diatermia.\n Ideal para pieles maduras."
-        image: /images/servicios/paquete_nefertiti.jpeg
+        image: "/images/servicios/paquete_nefertiti.jpeg"
         featured:
           name: Información
           link: https://example.com
           price: "55,000"
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        # links:
-        #   - icon: fa fa-envelope
-        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-        #   - icon: fab fa-whatsapp
-        #     url: https://example.com
 
       - title: Paquete Facial Cleopatra"
         content: "5 tratamientos faciales con Diatermia y Carboxiterapia.\n Ideal para pieles maduras."
-        image: /images/servicios/paquete_cleopatra.jpeg
+        image: "/images/servicios/paquete_cleopatra.jpeg"
         featured:
           name: Información
           link: https://example.com
