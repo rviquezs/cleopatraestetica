@@ -170,7 +170,7 @@ params:
       - title: Paquete Facial Nefertiti
         content: |-
           5 tratamientos faciales con Diatermia.
-           Ideal para pieles maduras.
+          Ideal para pieles maduras.
         image: https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_nefertiti_zwwhqw.jpg
         featured:
           name: Información
@@ -179,12 +179,13 @@ params:
       - title: Paquete Facial Cleopatra"
         content: |-
           5 tratamientos faciales con Diatermia y Carboxiterapia.
-           Ideal para pieles maduras.
+          Ideal para pieles maduras.
         image: https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_cleopatra_vxsmqn.jpg
         featured:
           name: Información
           link: https://example.com
           price: 18,000
+  
   hero:
     enable: true
     logo: https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/logo_goxssf.png
