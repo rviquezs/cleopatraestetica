@@ -1,3 +1,10 @@
+items:
+  - featured:
+      name: Información
+      link: https://example.com
+    title: Paquete Facial Test
+    content: Un contenido testing
+    image: https://res.cloudinary.com/dny1bgulo/image/fetch/v1725421700/https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_cleopatra_vxsmqn.jpg
 enableRobotsTXT: true
 languageCode: es
 params:
