@@ -8,7 +8,7 @@ collections:
     name: "servicios"
     files:
       - label: "Servicios"
-        name: "projects"
+        name: "servicios"
         file: "config.yaml"
         fields:
           - label: "Items"

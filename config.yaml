@@ -272,7 +272,7 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     title: "Servicios"
     items:
       - title: Trilaser
