@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/servicios/servicio1/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-05T17:01:59-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/servicios/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-05T17:01:59-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/servicios/test-copy-2/</loc>
+    <lastmod>2024-09-05T17:01:59-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/servicios/test-copy/</loc>
+    <lastmod>2024-09-05T17:01:59-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/servicios/test/</loc>
+    <lastmod>2024-09-05T17:01:59-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

@@ -1,4 +1,4 @@
-baseURL: "https://cleopatraestetica.netlify.app/"
+baseURL: "https://cleopatraestetica.com/"
 languageCode: "es"
 title: "Estética Cleopatra"
 theme: hugo-business
@@ -155,13 +155,13 @@ params:
     button:
       enable: true
       name: "SOLICITE UNA CITA"
-      url: "/#contact"
+      url: https://wa.me/message/MBIE6Y4FTW2LM1
       download: false
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-whatsapp fa-bounce
-          url: https://wa.me/50685178431
+          url: https://wa.me/message/MBIE6Y4FTW2LM1
         - icon: fa-regular fa-envelope fa-bounce
           url: mailto:info@cleopatraestetica.com
       # customIcons:
@@ -169,7 +169,6 @@ params:
       #     url: "https://example.com"
 
   # About
-  
   about:
     enable: false
     title: "About Me"
@@ -203,7 +202,6 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
 
   # Education
   education:
@@ -318,7 +316,6 @@ params:
       enable: true
       disableFeaturedImage: false
 
-
   #Contact
   contact:
     enable: true
@@ -335,17 +332,14 @@ params:
 
   footer:
     recentPosts:
-      path: "/blogs"
+      path: "/servicios"
       count: 3
-      title: Recent Posts
-      enable: false
+      title: Ofertas
+      enable: true
       disableFeaturedImage: false
     socialNetworks:
-      # github: https://github.com
-      # linkedin: https://linkedin.com
-      # twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      instagram: https://www.instagram.com/moniksantos09?igsh=ZHltejk2YTU1dzAy
+      facebook: https://www.facebook.com/moniksantos09?mibextid=ZbWKwL
       email: mailto:info@cleopatraestetica.com
 
   # List pages like blogs and posts
