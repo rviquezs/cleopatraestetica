@@ -7,6 +7,11 @@
 The **Estética Cleopatra** landing page is a modern and responsive website designed for **Estética Cleopatra**, a beauty salon. 
 This landing page aims to provide a stylish online presence, showcasing the salon's services and contact information. Built with Hugo and a customized fork of the **hugo-profile** theme, it ensures a sleek and professional appearance suitable for attracting and engaging clients.
 
+*Homepage*
+
+![Homepage Screenshot](https://github.com/user-attachments/assets/9d47610f-ce51-407d-9adf-cae2874fc253)
+
+
 ## Technologies Used
 
 - [**Hugo**](https://gohugo.io/): Static site generator used for building the website
