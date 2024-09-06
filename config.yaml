@@ -279,7 +279,7 @@ params:
         featured:
           name: Información
           # price: "10.000"
-          link: https://example.com
+          link: https://wa.me/message/MBIE6Y4FTW2LM1
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
@@ -295,7 +295,7 @@ params:
         image: "https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_nefertiti_zwwhqw.jpg"
         featured:
           name: Información
-          link: https://example.com
+          link: https://wa.me/message/MBIE6Y4FTW2LM1
           price: "55,000"
 
       - title: Paquete Facial Cleopatra"
@@ -303,7 +303,7 @@ params:
         image: "https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_cleopatra_vxsmqn.jpg"
         featured:
           name: Información
-          link: https://example.com
+          link: https://wa.me/message/MBIE6Y4FTW2LM1
           price: "18,000"
 
   #Servicios
