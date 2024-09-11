@@ -273,38 +273,6 @@ params:
     enable: true
     title: "Servicios"
     items:
-      - title: Trilaser
-        content: El mejor equipo de depilación con láser.
-        image: "https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/trilaser_m6a9a7.jpg"
-        featured:
-          name: Información
-          # price: "10.000"
-          link: https://wa.me/message/MBIE6Y4FTW2LM1
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        # links:
-        #   - icon: fa fa-envelope
-        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-        #   - icon: fab fa-whatsapp
-        #     url: https://example.com
-
-      - title: Paquete Facial Nefertiti
-        content: "5 tratamientos faciales con Diatermia.\n Ideal para pieles maduras."
-        image: "https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_nefertiti_zwwhqw.jpg"
-        featured:
-          name: Información
-          link: https://wa.me/message/MBIE6Y4FTW2LM1
-          price: "55,000"
-
-      - title: Paquete Facial Cleopatra"
-        content: "5 tratamientos faciales con Diatermia y Carboxiterapia.\n Ideal para pieles maduras."
-        image: "https://res.cloudinary.com/dny1bgulo/image/upload/v1725421141/paquete_cleopatra_vxsmqn.jpg"
-        featured:
-          name: Información
-          link: https://wa.me/message/MBIE6Y4FTW2LM1
-          price: "70,000"
 
   #Servicios
   servicios:
@@ -318,7 +286,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     title: "Contáctenos"
     # content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     # btnName: Mail me
@@ -332,9 +300,9 @@ params:
 
   footer:
     recentPosts:
-      path: "/servicios"
+      path: "servicios"
       count: 3
-      title: Ofertas
+      # title: Ofertas
       enable: true
       disableFeaturedImage: false
     socialNetworks:
@@ -350,7 +318,7 @@ params:
   singlePages:
     socialShare: true
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
@@ -359,8 +327,8 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
+    read: "Ver más"
+    # toc: "Table Of Contents"
     copyright: "Todos los derechos reservados"
     pageNotFound: "Page not found"
     emailText: "Check out this site"

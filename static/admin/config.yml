@@ -1,31 +1,24 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master 
 media_folder: static/images
 public_folder: /images
 collections:
-  - label: "Servicios"
-    name: "servicios"
-    files:
-      - label: "Servicios"
-        name: "servicios"
-        file: "config.yaml"
-        fields:
-          - label: "Items"
-            name: "items"
-            widget: "list"
-            fields:
-              - { label: 'Título', name: 'title', widget: 'string' }
-              - { label: 'Contenido', name: 'content', widget: 'text', default: -| }
-              - { label: 'Imagen', name: 'image', widget: 'image' }
-              - label: 'Destacado'
-                name: 'featured'
-                widget: 'object'
-                fields:
-                  - { label: 'Nombre', name: 'name', widget: 'string', default: 'Información' }
-                  - { label: 'Enlace', name: 'link', widget: 'string', default: 'https://example.com' }
-                  - { label: 'Precio', name: 'price', widget: 'string', required: false }
-
+  - name: "servicios"
+    label: "Servicio"
+    label_singular: "Servicio"
+    folder: "content/servicios"
+    create: true
+    slug: "{{slug}}" # This will be used to create a new file with a unique name based on the slug
+    extension: md
+    fields:
+      - { label: "Imagen", name: "image", widget: "image", required: true }
+      - { label: "Título", name: "title", widget: "string", required: true }
+      - { label: "Precio", name: "price", widget: "string", default: "₡ " }
+      - { label: "Duración", name: "duration", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "datetime", required: true, default: now }
+      - { label: "Cuerpo", name: "body", widget: "markdown", required: true }
+      - { label: "Tags", name: "tags", widget: "list", field: { label: "Tag", name: "tag", widget: "string" } }
 
 commit_messages:
   create: Create {{collection}} “{{slug}}”
@@ -41,3 +34,7 @@ media_library:
   config:
     cloud_name: dny1bgulo
     api_key: 968862512396434
+site_url: http://localhost:1313/
+display_url: http://localhost:1313/
+#logo_url: https://your-site.com/images/logo.svg
+locale: 'es'
