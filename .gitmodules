@@ -1,0 +1,3 @@
+[submodule "themes/cleopatraestetica-theme"]
+	path = themes/cleopatraestetica-theme
+	url = https://github.com/rvqzs/cleopatraestetica-theme.git
