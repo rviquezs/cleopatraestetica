@@ -1,9 +1,8 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+desciption: 
 date = {{ .Date }}
 draft = true
 image: "" 
-price: "Precio: ₡ "
-duration: "Duración" 
 tags:
 +++
