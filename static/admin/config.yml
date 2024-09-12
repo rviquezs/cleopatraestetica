@@ -16,7 +16,7 @@ collections:
       - { label: "Título", name: "title", widget: "string", required: true }
       - { label: "Precio", name: "price", widget: "string", default: "₡ " }
       - { label: "Duración", name: "duration", widget: "string" }
-      - { label: "Fecha", name: "date", widget: "datetime", required: true, default: now }
+      - { label: "Fecha", name: "date", widget: "datetime", default: now }
       - { label: "Cuerpo", name: "body", widget: "markdown", required: true }
       - { label: "Tags", name: "tags", widget: "list", field: { label: "Tag", name: "tag", widget: "string" } }
 
