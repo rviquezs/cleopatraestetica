@@ -1,20 +1,18 @@
-/config.yaml
-/content
-/static/images
-.vscode
 .env
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
 
-### Hugo ###
 # Generated files by hugo
 /public/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
 
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
 # Temporary lock file while building
-.hugo_build.lock
+/.hugo_build.lock
