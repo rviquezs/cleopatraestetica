@@ -20,4 +20,4 @@ tags:
 
 ### ***NEFERTITI***
 
-***En la cabina de Nefertiti encontraras,un metodo de aplicacion con altos estandares de calidad ya que todas las piezas a utilizar seran pasadas por nuestro autoclave para que nuestra estimada clientela esté satisfecha que la pieza fue esterilizada antes de su aplicacion adémas nuestra profesional siempre usará guantes y tapabocas,el la cabina de nefertiti usted se sentirá como en 💕casa***
+***En la cabina de Nefertiti encontraras,un metodo de aplicacion con altos estandares de calidad ya que todas las piezas a utilizar seran pasadas por nuestro autoclave para que nuestra estimada clientela esté satisfecha que la pieza fue esterilizada antes de su aplicacion adémas nuestra profesional siempre usará guantes y tapabocas,el la cabina de nefertiti usted se sentirá como en 💕casa.***
