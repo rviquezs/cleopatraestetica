@@ -7,7 +7,7 @@ description: Embellece tu cuerpo con Joyeria de acero quirurgico o titanio grado
   facial como corporal  no edad limite para lucir la joyeria en tu cuerpo.
 date: 2024-09-12T16:13:00.000Z
 ---
-# ***BODY PIERCING*** 
+* # ***BODY PIERCING***
 
 ```
 
