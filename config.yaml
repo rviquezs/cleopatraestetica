@@ -1,6 +1,7 @@
 baseURL: "https://cleopatraestetica.com/"
 languageCode: "es"
 title: "Estética Cleopatra"
+
 theme: cleopatraestetica-theme
 
 outputs:
@@ -45,7 +46,7 @@ Menus:
     - identifier: contact
       name: Contacto
       title: contacto
-      url: /#contact
+      url: /#recent-posts
       weight: 3
 
     #Dropdown menu
@@ -68,7 +69,7 @@ Menus:
 
 params:
   title: "Estética Cleopatra"
-  description: Text about my cool site
+  description: Centro Estético Cleopatra
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/fav.png"
 
