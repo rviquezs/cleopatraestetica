@@ -1,5 +1,5 @@
 ---
-image: "88864368"
+image: https://res.cloudinary.com/dny1bgulo/image/upload/v1726176979/piercing_oreja_fxw8gg.jpg
 title: BODY PIERCING
 description: Embellece tu cuerpo con Joyeria de acero quirurgico o titanio grado
   implante,ideal para aquella personas que son alergicas, no te quedes con las
